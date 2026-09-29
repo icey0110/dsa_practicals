@@ -1,3 +1,8 @@
+/*
+name : Reuel Bodhak
+PRN NO : 32658010086
+DIV : C
+*/
 
 #include <stdio.h>
 
